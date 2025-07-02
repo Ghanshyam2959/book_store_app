@@ -87,5 +87,5 @@ This project is designed as a learning-oriented book store management system whe
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/book-app-store.git
+git clone https://github.com/Ghanshyam2959/book_store_app
 cd book-app-store
